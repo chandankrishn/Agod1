@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "PicoGhost",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "GameName": "Dragon card",
+    "Details": "Contains Data related the card of Dragons",
+    "Data": [
+      {
+        "Name": "Grunt",
+        "NumberAbility": 4,
+        "path": "DragonCards/Grunt.json"
+      }
+    ]
+  }
+}

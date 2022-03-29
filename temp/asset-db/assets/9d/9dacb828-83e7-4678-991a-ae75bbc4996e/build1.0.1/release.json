@@ -1,0 +1,74 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.JsonAsset",
+            [
+                "_name",
+                "json"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "CardsData",
+            {
+                "Data": [
+                    {
+                        "species": "Grunt",
+                        "type": "Fire",
+                        "class": "Bruiser",
+                        "Image": "DragonImages/FIRE-GRUNT"
+                    },
+                    {
+                        "species": "Oly",
+                        "type": "Robot",
+                        "class": "Tank",
+                        "Image": "DragonImages/ROBOT-OLY"
+                    },
+                    {
+                        "species": "Pico",
+                        "type": "Ghost",
+                        "class": "Healer",
+                        "Image": "DragonImages/GHOST-PICO"
+                    },
+                    {
+                        "species": "Alex",
+                        "type": "Alien",
+                        "class": "Trickster",
+                        "Image": "DragonImages/ALIEN-ALEX"
+                    },
+                    {
+                        "species": "Otis",
+                        "type": "Gold",
+                        "class": "DPS",
+                        "Image": "DragonImages/GOLD-OTIS"
+                    },
+                    {
+                        "species": "Pico",
+                        "type": "Ice",
+                        "class": "Healer",
+                        "Image": "DragonImages/ICE-PICO"
+                    }
+                ]
+            }
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

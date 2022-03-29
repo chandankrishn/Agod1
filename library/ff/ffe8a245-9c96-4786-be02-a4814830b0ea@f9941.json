@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fireBolt",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 530,
+      "height": 600
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 530,
+      "height": 600
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ffe8a245-9c96-4786-be02-a4814830b0ea@6c48a",
+    "packable": true
+  }
+}

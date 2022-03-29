@@ -1,0 +1,58 @@
+{
+    "Species" : "Oly",
+    "Type" : "Robot",
+    "Class" : "Tank",
+    "CardData" :
+    [
+        {
+            "Name" : "Static Shock",
+            "Description" : "When attacked, you reflect 30% of the damage back to the attacker. This buff lasts for 2 turns.",
+            "EnergyCost" : "1",
+            "CardType" : "DEF",
+            "Target" : "Self",
+            "Reach" : "ST",
+            "EffectType" : "Reflect",
+            "chance" : "100",
+            "Amount" : "30"
+
+        },
+
+        {
+            "Name" : "Enraged",
+            "Description" : "Attack the enemy to deal 35 damage. On your next turn, your attack power increases proportional to your lost HP.",
+            "EnergyCost" : "2",
+            "CardType" : "ATK",
+            "Target" : "Enemy",
+            "Reach" : "ST",
+            "Damage" : "35",
+            "Hits" : "1",
+            "EffectType" : "Setup",
+            "chance" : "100",
+            "Amount" : ""
+
+        },
+
+        {
+            "Name" : "Shield Wall",
+            "Description" : "The next two single-target attacks directed at your allies will be redirected to you. Draw 1 card. If you die while buff is active, discard 2 cards.",
+            "EnergyCost" : "3",
+            "CardType" : "DEF",
+            "Target" : "Self",
+            "Reach" : "ST",
+            "EffectType" : "Buff",
+            "chance" : "100"
+
+        },
+        {
+            "Name" : "Ground Slam",
+            "Description" : "Attack the enemy for 20 damage. Apply Wound to ALL  enemies for one turn.",
+            "EnergyCost" : "1",
+            "CardType" : "ATK",
+            "Target" : "Enemy",
+            "DebuffName" : "Wound",
+            "EffectType" : "Debuff",
+            "chance" : "100",
+            "Amount" : "25"
+        }
+    ]
+}

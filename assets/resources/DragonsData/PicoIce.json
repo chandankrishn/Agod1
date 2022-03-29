@@ -1,0 +1,15 @@
+{
+    
+    "GameName" : "Dragon card",
+    "Details"  : "Contains Data related the card of Dragons",
+    "Data" :
+    [
+        {
+            "Name" : "Grunt",
+            "NumberAbility" : 4,
+            "path" : "DragonCards/Grunt.json"
+
+        }
+    ]
+
+}

@@ -1,0 +1,58 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1647855080530": {
+        "id": "1647855080530",
+        "progress": 1,
+        "state": "success",
+        "message": "28-03-2022 18:02 Build success in 62731 ms!",
+        "options": {
+          "name": "aGOD",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "1f7a7ddc-1bbb-48d6-bdfd-9122c2ce2b11",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Home.scene",
+              "uuid": "1f7a7ddc-1bbb-48d6-bdfd-9122c2ce2b11",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "c3143f",
+              "services": []
+            }
+          }
+        },
+        "time": "28-03-2022 18:01",
+        "dirty": false
+      }
+    }
+  }
+}

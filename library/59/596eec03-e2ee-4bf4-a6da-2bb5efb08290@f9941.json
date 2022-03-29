@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PikPng.com_double-arrow-png_633167",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "596eec03-e2ee-4bf4-a6da-2bb5efb08290@6c48a",
+    "packable": true
+  }
+}

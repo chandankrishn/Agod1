@@ -1,0 +1,418 @@
+{
+  "/Users/chandan/aGOD/assets/Script.meta": {
+    "time": 1647853451857.3215
+  },
+  "/Users/chandan/aGOD/assets/Script": {
+    "time": 1648121199746.238,
+    "uuid": "fc7825d0-4ddc-4ce6-a580-8f9a9d4b9a2f",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources.meta": {
+    "time": 1647853483974.0815
+  },
+  "/Users/chandan/aGOD/assets/resources": {
+    "time": 1648547355590.6116,
+    "uuid": "3a9eea1e-83c9-49e6-bc7c-d8f5f81a615c",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture.meta": {
+    "time": 1647853497659.255
+  },
+  "/Users/chandan/aGOD/assets/Texture": {
+    "time": 1648547291681.745,
+    "uuid": "307a4678-4b09-4a5b-ada6-f848f841cd95",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Prefab.meta": {
+    "time": 1647853555590.0732
+  },
+  "/Users/chandan/aGOD/assets/Prefab": {
+    "time": 1648544612728.8826,
+    "uuid": "cc152464-b822-4c3f-adc7-689a727717f9",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Scene.meta": {
+    "time": 1647853587116.7598
+  },
+  "/Users/chandan/aGOD/assets/Scene": {
+    "time": 1648038681898.9614,
+    "uuid": "4bebb493-6664-4e13-937d-b9b0fc239a05",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Scene/Home.scene.meta": {
+    "time": 1647853594407.6875
+  },
+  "/Users/chandan/aGOD/assets/Scene/Home.scene": {
+    "time": 1648548209474.7207,
+    "uuid": "1f7a7ddc-1bbb-48d6-bdfd-9122c2ce2b11",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home.meta": {
+    "time": 1647853882980.7349
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home": {
+    "time": 1648120924251.5706,
+    "uuid": "d4e0d18a-db95-4c24-8e97-28c8ad633d95",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/GamePlay.meta": {
+    "time": 1647853894561.5703
+  },
+  "/Users/chandan/aGOD/assets/Texture/GamePlay": {
+    "time": 1647928617387.17,
+    "uuid": "b1d633ef-4a9d-49d2-84d3-4c6fe4c8dd51",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/backGround.jpeg.meta": {
+    "time": 1647853900299.7615
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/backGround.jpeg": {
+    "time": 1647853900288.4578,
+    "uuid": "5cf6fede-c82d-4c3d-984f-c88ac495d1e0",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/NameBase.jpeg.meta": {
+    "time": 1647854121611.9658
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/NameBase.jpeg": {
+    "time": 1647854121606.3547,
+    "uuid": "8ae6537f-cc60-4288-82c9-be1f4e444133",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Scene/Test.scene.meta": {
+    "time": 1647856426774.7214
+  },
+  "/Users/chandan/aGOD/assets/Scene/Test.scene": {
+    "time": 1648190674126.473,
+    "uuid": "8a22df66-a08a-4bce-886e-70e49b09d4c2",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Cards.meta": {
+    "time": 1647857059018.6138
+  },
+  "/Users/chandan/aGOD/assets/Cards": {
+    "time": 1648038635617.2637,
+    "uuid": "f5461067-1dec-416c-a746-4b0c806151b5",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData.meta": {
+    "time": 1647862888816.702
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData": {
+    "time": 1647864541018.2102,
+    "uuid": "28e53d0e-e72b-4688-9e65-efc805a76a84",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Cards/CardsData.json.meta": {
+    "time": 1647862923932.442
+  },
+  "/Users/chandan/aGOD/assets/Cards/CardsData.json": {
+    "time": 1648030351539.5894,
+    "uuid": "9dacb828-83e7-4678-991a-ae75bbc4996e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/GruntFire.json.meta": {
+    "time": 1647862865857.2754
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/GruntFire.json": {
+    "time": 1647870472815.7969,
+    "uuid": "23c454fd-dccb-4482-87bb-8164b9d2b69e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/OlyRobot.json.meta": {
+    "time": 1647928374035.6926
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/OlyRobot.json": {
+    "time": 1647928528153.383,
+    "uuid": "98be39e4-973e-43b4-9763-fcc9751c414e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/PicoGhost.json.meta": {
+    "time": 1647863069650.4448
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/PicoGhost.json": {
+    "time": 1647863069651.0745,
+    "uuid": "a06c6d7f-2944-4fdf-9594-5f033d10f79f",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/AlexAlien.json.meta": {
+    "time": 1647870473533.7952
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/AlexAlien.json": {
+    "time": 1647870470047.238,
+    "uuid": "be89a2c9-f34e-4c3e-a990-9cb30e546d28",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/OtisGold.json.meta": {
+    "time": 1647864472170.9116
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/OtisGold.json": {
+    "time": 1647864472171.306,
+    "uuid": "a2343acd-8460-40d2-8b5d-6973e1c31699",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/PicoIce.json.meta": {
+    "time": 1647864517073.1885
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonsData/PicoIce.json": {
+    "time": 1647864517073.587,
+    "uuid": "99e6727b-0c85-407a-b71a-7adc63e9d850",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages.meta": {
+    "time": 1647928566653.323
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages": {
+    "time": 1648012192351.859,
+    "uuid": "39b7f218-f368-4dec-b202-2dcf04be5d50",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/fireBolt.png.meta": {
+    "time": 1647928337850.3486
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/fireBolt.png": {
+    "time": 1647928337730.928,
+    "uuid": "ffe8a245-9c96-4786-be02-a4814830b0ea",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/Pikachu.png.meta": {
+    "time": 1647928337808.7578
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/Pikachu.png": {
+    "time": 1647928337730.8335,
+    "uuid": "932c3c63-515a-40d9-87d9-4236c5550ac7",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/BackGorund.jpeg.meta": {
+    "time": 1647930460864.4458
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/BackGorund.jpeg": {
+    "time": 1647930460851.7273,
+    "uuid": "0704add0-ad0c-4fc5-8542-f2eb07e7f256",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/textures.meta": {
+    "time": 1647930630966.554
+  },
+  "/Users/chandan/aGOD/assets/resources/textures": {
+    "time": 1647930959607.6182,
+    "uuid": "55d70169-44a3-4d57-9834-bcceb375ef62",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/bundle2.meta": {
+    "time": 1647930956422.8247
+  },
+  "/Users/chandan/aGOD/assets/bundle2": {
+    "time": 1647931670237.1006,
+    "uuid": "ddbe6126-2fde-4567-b105-5acb233ba545",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/data.meta": {
+    "time": 1647931142028.2522
+  },
+  "/Users/chandan/aGOD/assets/resources/data": {
+    "time": 1647931174860.409,
+    "uuid": "2e8dd84a-0c0b-400b-97db-1153c0015eeb",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/data/AlexAlien.json.meta": {
+    "time": 1647931174859.952
+  },
+  "/Users/chandan/aGOD/assets/resources/data/AlexAlien.json": {
+    "time": 1647931174860.475,
+    "uuid": "c8c89a3c-d45b-4dd1-93c6-180d94989924",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/background.jpeg.meta": {
+    "time": 1647930665571.2158
+  },
+  "/Users/chandan/aGOD/assets/resources/background.jpeg": {
+    "time": 1647930660713.9373,
+    "uuid": "470acfe8-481f-4e99-93d9-f12d1f71e45e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ROBOT-OLY.png.meta": {
+    "time": 1648012192385.561
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/FIRE-GRUNT.png.meta": {
+    "time": 1648012192443.7854
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ALIEN-ALEX.png.meta": {
+    "time": 1648012192522.0312
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/GOLD-OTIS.png.meta": {
+    "time": 1648012192615.666
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ICE-PICO.png.meta": {
+    "time": 1648012192668.236
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/GHOST-PICO.png.meta": {
+    "time": 1648012192728.301
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ROBOT-OLY.png": {
+    "time": 1648012192344.6917,
+    "uuid": "6f9dec41-69ff-4160-a150-a381f3b501ad",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/FIRE-GRUNT.png": {
+    "time": 1648012192347.3064,
+    "uuid": "681e8885-7fd7-4fd6-9d41-7431a95c2b01",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ALIEN-ALEX.png": {
+    "time": 1648012192348.1248,
+    "uuid": "bb4334f4-337d-41b2-aae3-eb78c0d0ab41",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/GOLD-OTIS.png": {
+    "time": 1648012192348.3125,
+    "uuid": "ea630504-d9f2-425f-8c7a-67a06d64c48e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/ICE-PICO.png": {
+    "time": 1648012192348.9062,
+    "uuid": "64ebbafb-2dcb-48ab-b5b1-164b4f28ce0e",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/resources/DragonImages/GHOST-PICO.png": {
+    "time": 1648012192351.0042,
+    "uuid": "8e4ab4ea-2f65-42fb-af3a-cb812f348ba4",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/backGround.png.meta": {
+    "time": 1648016699332.7295
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/backGround.png": {
+    "time": 1648016699320.8713,
+    "uuid": "e7f21857-74b0-4a5b-a8dc-eacf97340701",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Prefab/DragonCard.prefab.meta": {
+    "time": 1648017731213.0918
+  },
+  "/Users/chandan/aGOD/assets/Prefab/DragonCard.prefab": {
+    "time": 1648121750014.8186,
+    "uuid": "702a8cc6-11b1-49bc-ad26-54b556a7429c",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/back.png.meta": {
+    "time": 1648022361954.637
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/back.png": {
+    "time": 1648022361918.2485,
+    "uuid": "f27741c9-3933-434e-a7a4-8724033bedf6",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/PikPng.com_double-arrow-png_633167.png.meta": {
+    "time": 1648025946278.388
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/PikPng.com_double-arrow-png_633167.png": {
+    "time": 1648025946267.0122,
+    "uuid": "596eec03-e2ee-4bf4-a6da-2bb5efb08290",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home.meta": {
+    "time": 1648028009447.8699
+  },
+  "/Users/chandan/aGOD/assets/Script/Home": {
+    "time": 1648448022554.7947,
+    "uuid": "26305a54-f6fe-48f4-a2e4-69b23af0a686",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons.meta": {
+    "time": 1648028017904.1335
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons": {
+    "time": 1648544626619.9497,
+    "uuid": "29b3b1cb-f5ea-40a3-93db-f0fe2b39d39c",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/DragonCards.ts.meta": {
+    "time": 1648028155467.0034
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/DragonCards.ts": {
+    "time": 1648545914504.3728,
+    "uuid": "1a9b43bf-ebf0-4a32-8449-eeb787c880ed",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Prefab/AttackCards.prefab.meta": {
+    "time": 1648038632142.8499
+  },
+  "/Users/chandan/aGOD/assets/Prefab/AttackCards.prefab": {
+    "time": 1648189391837.2507,
+    "uuid": "7df25b74-ccf5-4f77-9095-6e0509929eee",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/GameManager.meta": {
+    "time": 1648098291890.3286
+  },
+  "/Users/chandan/aGOD/assets/Script/GameManager": {
+    "time": 1648100413837.0288,
+    "uuid": "e8565932-e0c5-43af-b647-130b7d26813c",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/GameManager/TeamManager.ts.meta": {
+    "time": 1648100413837.7751
+  },
+  "/Users/chandan/aGOD/assets/Script/GameManager/TeamManager.ts": {
+    "time": 1648192875678.6484,
+    "uuid": "0e05514b-6a17-4a45-a55f-d4f7b92263ea",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/BattleFieldBackground.jpeg.meta": {
+    "time": 1648101188502.446
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/BattleFieldBackground.jpeg": {
+    "time": 1648101188463.0283,
+    "uuid": "1b869861-edb6-456e-a795-fa6e9eaf5362",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/DragonTeam.png.meta": {
+    "time": 1648120924264.8032
+  },
+  "/Users/chandan/aGOD/assets/Texture/Home/DragonTeam.png": {
+    "time": 1648120924252.2856,
+    "uuid": "9e8d3c4c-d36f-4700-a6b7-7bc427f42b2f",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Prefab/DragonTeam.prefab.meta": {
+    "time": 1648121159655.1658
+  },
+  "/Users/chandan/aGOD/assets/Prefab/DragonTeam.prefab": {
+    "time": 1648471574974.8953,
+    "uuid": "1dcd14c9-89ab-4c10-b385-06701752d0b6",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/TeamSelection.ts.meta": {
+    "time": 1648121631985.2083
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/TeamSelection.ts": {
+    "time": 1648472491595.0608,
+    "uuid": "fffaabb0-e2ee-4a87-adad-f1bf4c0bab40",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/RandomDragon.ts.meta": {
+    "time": 1648447839500.217
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/RandomDragon.ts": {
+    "time": 1648547051254.9697,
+    "uuid": "e6906a59-217d-40a9-8be2-e88b388fd678",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Prefab/Dragon.prefab.meta": {
+    "time": 1648544612734.882
+  },
+  "/Users/chandan/aGOD/assets/Prefab/Dragon.prefab": {
+    "time": 1648545940284.73,
+    "uuid": "2702a3c0-1eb0-4433-b66f-38e55ac16179",
+    "missing": false
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/Dragon.ts.meta": {
+    "time": 1648544626620.8047
+  },
+  "/Users/chandan/aGOD/assets/Script/Home/Dragons/Dragon.ts": {
+    "time": 1648547049158.826,
+    "uuid": "15d16449-023c-4f54-b8b9-bde084a30663",
+    "missing": false
+  }
+}

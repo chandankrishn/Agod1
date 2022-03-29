@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "68HoiFf9dP1p1BdDGpXCsB@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "FIRE-GRUNT",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1145,
+                "height": 1183
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 1145,
+                "height": 1183
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

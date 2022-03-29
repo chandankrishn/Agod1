@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "AlexAlien",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "Species": "Grunt",
+    "Type": "Fire",
+    "Class": "Bruiser",
+    "CardData": [
+      {
+        "Name": "Talon Grip",
+        "Description": " Grab the enemy to deal 40 damage. 40% chance to inflict Singe (Deal 5 damage per turn for 2 turns.)",
+        "EnergyCost": "1",
+        "CardType": "ATK",
+        "Target": "Enemy",
+        "Reach": "ST",
+        "Damage": "40",
+        "Hits": "1",
+        "DebuffName": "Single",
+        "EffectType": "DOT",
+        "chance": "40",
+        "Amount": "5",
+        "Sound": "2"
+      },
+      {
+        "Name": "Avenger",
+        "Description": "Increase your speed for two turns. For each dead ally, increase the damage of your next attack by 25%.",
+        "EnergyCost": "2",
+        "CardType": "ATK",
+        "Target": "Self",
+        "Reach": "ST",
+        "EffectType": "Buff",
+        "chance": "100"
+      },
+      {
+        "Name": "Relentless",
+        "Description": "Attack the enemy to deal 60 damage and recover 50% of total damage dealt.",
+        "EnergyCost": "2",
+        "CardType": "ATK",
+        "Target": "Enemy",
+        "Reach": "ST",
+        "Damage": "60",
+        "Hits": "1",
+        "EffectType": "Heal",
+        "chance": "100",
+        "Amount": "50"
+      },
+      {
+        "Name": "Brace Yourself",
+        "Description": "Reduce incoming damage by 60%",
+        "EnergyCost": "1",
+        "CardType": "DEF",
+        "Target": "Self",
+        "Reach": "ST",
+        "EffectType": "Buff",
+        "chance": "100",
+        "Amount": "60"
+      }
+    ]
+  }
+}

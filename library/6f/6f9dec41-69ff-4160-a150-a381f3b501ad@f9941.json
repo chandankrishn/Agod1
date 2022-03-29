@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ROBOT-OLY",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 903,
+      "height": 1001
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 903,
+      "height": 1001
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6f9dec41-69ff-4160-a150-a381f3b501ad@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "07BK3QrQxPxYVC8usH5/JW@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "BackGorund",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 590,
+                "height": 312
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 590,
+                "height": 312
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]
